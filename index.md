@@ -4,7 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [The Big Business of Food Delivery - Using Excel to look deeper into data!
+[image](https://github.com/aligilbert/aligilbert.github.io/assets/153242367/06716da9-7ddb-4f61-97f5-ca756992914a)
+)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
